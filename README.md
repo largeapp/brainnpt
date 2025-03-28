@@ -10,4 +10,6 @@ See the following publications for examples of this code in use:
   
 
 ### Code
-...
+#### pretrain_classify.py is the  main file for pretraining. 
+#### Model is in **pretrain_model.py** and **encoder.py**. 
+#### Pretrain and classify config is in **config_pretrain.py** and  **config.py**. 
