@@ -12,4 +12,4 @@ See the following publications for examples of this code in use:
 ### Code
 #### pretrain_classify.py is the  main file for pretraining. 
 #### pretrain_model.py and encoder.py are the model files. 
-#### config_pretrain.py and config.py are the config files of pre-training and classifying. 
+#### config_pretrain.py and config.py are the config files. 
