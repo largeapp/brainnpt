@@ -1,4 +1,4 @@
-### Pretaining brain funcitonal network model 
+### Pre-taining brain funcitonal network models 
 This is a repository of codes and experiment results on Pretaining brain funcitonal networks. 
 
 Our research collection on artificial intelligence for brain image analysis is available on [this link](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
